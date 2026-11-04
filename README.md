@@ -6,6 +6,12 @@
 **Level:** Beginner to intermediate
 
 ---
+# submission period from 4th November to 12 november
+** Firstly fork this repo**
+**clone repo under your names**
+** create names.md files and includes names of members then push to your repo**
+** create pull request not later than wednesday 11 november**
+** happy coding, NDABAKUNDA **
 
 ## About This Project (Read First)
 
