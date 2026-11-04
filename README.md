@@ -93,7 +93,7 @@ The database models a real dealership: cars belong to brands, customers buy cars
 
 `cars.status` is one of `available`, `sold`, `maintenance`.
 
-## 4. Stage 0 – Setup (Teacher and Students Together)
+## 4. Stage 0 
 
 ### Create the project
 
@@ -236,7 +236,7 @@ INSERT INTO maintenance (car_id, description, cost, service_date) VALUES
 
 **Checkpoint:** `SELECT * FROM cars;` returns 4 rows, and `.env` does not appear in `git status`.
 
-## 5. Stage 1 – Read (Teacher Demo)
+## 5. Stage 1 revise
 
 This is the only code the teacher provides: the server, the `createConnection` setup, and two GET routes. Students type it along, then extend the same file in every later stage. New routes always go above the 404 handler.
 
